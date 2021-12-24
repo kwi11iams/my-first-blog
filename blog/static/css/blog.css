@@ -14,19 +14,16 @@
     text-decoration: none;
 }
 
+.page-header h2 a{
+    color: #ffffff;
+    float: right,
+}
+
 h1,
 h2,
 h3,
 h4 {
     font-family: 'Lobster', cursive;
-}
-
-.admin1{
-  float: right;
-}
-
-.admin{
-  margin-bottom: 30px;
 }
 
 .date {
@@ -51,11 +48,10 @@ h4 {
     margin-right: 20px;
 }
 
-.admin-button {
-    color: #000000;
-    float: right;
-    margin-right: 20px;
-    margin-top: 15px;
+.admin-link {
+  float: right;
+  margin-right: 20px;
+  margin-top: 10px;
 }
 
 .post {
