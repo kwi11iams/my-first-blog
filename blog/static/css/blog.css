@@ -51,6 +51,13 @@ h4 {
     margin-right: 20px;
 }
 
+.admin-button {
+    color: #000000;
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
 .post {
     margin-bottom: 70px;
 }
